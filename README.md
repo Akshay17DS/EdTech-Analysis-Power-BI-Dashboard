@@ -1,4 +1,4 @@
-# Edtech Analysis BI Dashboard
+# Edtec Analysis Power BI Dashboard
 
 ### Overview
 This project is a comprehensive Power BI dashboard created using the **Online Courses dataset**. The dashboard covers various analysis aspects, allowing users to interact with different features of Power BI, such as visualizations, filters, and drilldowns. Additionally, it demonstrates several key **DAX functions** to showcase advanced analytical calculations in Power BI.
