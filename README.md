@@ -141,7 +141,7 @@ RANKX(ALL(Courses[Language]), [Average Views per Language], , DESC)
 
 1. **Download the Power BI file**:  
    - You can download the Power BI file (`.pbix`) from this repository.  
-   - [Download Here](https://github.com/Akshay17DS/EdTech-Analysis-Power-BI-Dashboard/blob/main/Edtec%20Analysis.pbix)  
+   - [Download Here](https://github.com/Akshay17DS/EdTech-Analysis-Power-BI-Dashboard/raw/main/Edtec%20Analysis.pbix)  
 
 2. **Open with Power BI Desktop**:
    - Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) if you haven't already.
